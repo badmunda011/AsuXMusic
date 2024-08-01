@@ -6,7 +6,7 @@ load_dotenv()
 
 admins = {}
 
-SESSION_NAME = getenv("SESSION_NAME", "")
+SESSION_NAME ="BQGIzloAfcxANJrgKzZPAYhP5memCBvbKhdV0DvNBp4bnMykBy5M-FIl1mOuPtXxjhgI9cEGQssFzspFMqL-QVQFxFU-l-fJHvNy_IJgLDQYrbPC5bqJwPvcvqBbXim7v9T8s1frMpYcVGDctJYA_KRTrhlc5j1eVZv3nWKlBmOi5ii2r7qw4p856c-2rSOf4b_b_eGB3NL0qCwWgaz83kCd2L6nTCZ2YQisRf0rsjn_9E-CDUYl4a8Y0QpyzQkr8zOLu-pK9a8i4N-pUxT2fTPeLZ_UEXxPR77__LBMIJ2-ZGlzeEkGiJSOBeCWZ6G8PmbO1jaYGiWKxbpyauSIc1FQSEcreQAAAAG7QxP_AA"
 
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 API_ID = int(getenv("API_ID", "8186557"))
